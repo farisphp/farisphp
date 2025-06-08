@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faris Perwira</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h3 align="center">Full Stack Developer from Indonesia</h3>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://farisperwira.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faris-perwira/)
